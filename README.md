@@ -14,7 +14,7 @@ This repository contains Python implementations of several evolutionary and comp
   - [Parallel Cellular Algorithm (PCA)](#parallel-cellular-algorithm-pca)
   - [Gene Expression Programming (GEP)](#gene-expression-programming-gep)
 - [Getting Started](#getting-started)
-- [License](#license)
+  
 
 ## Overview
 
@@ -77,6 +77,3 @@ This project implements a range of bio-inspired optimization techniques that mim
      ```
    - Check inline comments for details on customizing fitness functions or algorithm parameters.
 
-## License
-
-This project is licensed under the MIT License.
